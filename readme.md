@@ -6,7 +6,7 @@
 Maximum Tune 6RR Medal Ratio Calculator, currently written in Powershell (And in html/css in future!)
 
 ### Version
-Thye latest revision for this software is 1.0.
+The latest revision for this software is 1.0.
 
 ### Language
 Powershell (HTML/CSS/JavaScript soon!)
@@ -29,4 +29,3 @@ feel free to open an issue [here](../../issues).
 ### Sponsor Me
 If you would like to sponsor this project, please feel free to 
 make a donation [here](https://www.paypal.com/paypalme/sirsc).
-
