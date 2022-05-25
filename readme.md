@@ -1,4 +1,4 @@
-# medal-ratio-calculator
+# WMMT Medal Ratio Calculator
 ## New Repository for the Medal Ratio Calculator project.
 ### Created by Scrubbs ([@SirScrubbington](https://twitter.com/SirScrubbington))
 
